@@ -18,6 +18,7 @@
 - Austin Spangler hi guys !
 - aleberkn
 - aleberkn+
+- [Jelis](https://github.com/JelisM)
 - [the-pigeon-coder](https://github.com/the-pigeon-coder)
 - [Bipika Amatya](https://github.com/bipika) Hello! Let the code begin
 - Arthur Shvetsov
@@ -3653,3 +3654,4 @@ Sugan
 - [Aman Yadav](https://github.com/dev-amanydv)
 - [XiaoWan](https://github.com/XiaoWan-xi) This is my first contribution.I wish I will do better and better in this career!
 - [yumoxuan](https://github.com/yumoxuan-25) This is my first contribution.I hope that I can do more contribution to open source!
+- [Ibrahim](https://github.com/IbrahimLoveForJS) This is my first contribution. Excited to learn more about open source!
